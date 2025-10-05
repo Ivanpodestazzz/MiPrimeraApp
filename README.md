@@ -48,3 +48,16 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# 📱 Mi Primera App con Expo
+
+Este proyecto fue creado como parte del curso de desarrollo móvil.  
+La app muestra un mensaje de bienvenida usando **React Native + Expo**.
+
+## 🚀 Tecnologías utilizadas
+- React Native
+- Expo CLI
+- Visual Studio Code
+- Android Studio (Emulador Pixel 7a)
+
+## 👤 Autor
+**Iván Podesta**
